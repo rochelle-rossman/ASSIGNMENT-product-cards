@@ -1,0 +1,35 @@
+body {
+  background-color: white;
+  margin: 50px;
+
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 50px;
+  column-gap: 50px;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+
+
+}
+
+.card {
+  border: solid 1px lightblue;
+}
+
+.available {
+background-color: darkgray;
+color: yellow;
+}
+
+
+footer {
+  font-size:x-small
+}
+
+header {
+  font-size: large;
+  font-weight: bold;
+}
