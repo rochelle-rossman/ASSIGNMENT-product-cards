@@ -6,7 +6,8 @@ body {
 
 .container {
   display: flex;
-  flex-wrap: wrap;
+  flex-flow: wrap row;
+  justify-content: center;
   row-gap: 50px;
   column-gap: 50px;
   text-align: center;
