@@ -34,3 +34,7 @@ header {
   font-size: large;
   font-weight: bold;
 }
+
+ul {
+  list-style-type: none;
+}
