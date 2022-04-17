@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color:cornsilk
   margin: 50px;
 
 }
@@ -12,13 +12,13 @@ body {
   row-gap: 50px;
   column-gap: 50px;
   text-align: center;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-
+  font-family: 'Akshar', sans-serif;
 
 }
 
 .card {
   border: solid 1px lightblue;
+  background-color: bisque;
 }
 
 .available {
@@ -40,4 +40,6 @@ ul {
   list-style-type: none;
 }
 
-
+h2 {
+  font-family: 'Bangers', cursive;
+}
