@@ -1,5 +1,5 @@
 body {
-  background-color:cornsilk
+  background-color: #18071B;
   margin: 50px;
 
 }
@@ -17,8 +17,9 @@ body {
 }
 
 .card {
-  border: solid 1px lightblue;
-  background-color: bisque;
+  border: solid 1px #FFDA53;
+  background-color: #2F2032;
+  color: #FFFFFF
 }
 
 .available {
